@@ -1,6 +1,6 @@
 # Quick Links
 
-  - [Midnight Theme] (https://github.com/KyleHubbs008/CS410_Diamond.git)
+  - [Midnight Theme](https://github.com/KyleHubbs008/CS410_Diamond.git)
 
 ## HTML & CSS Reference
 
