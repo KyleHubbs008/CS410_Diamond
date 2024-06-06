@@ -1,8 +1,8 @@
 # CyberSense
-# Quick Links
+<b> Quick Links
 
-## HTML & Python Reference
+<b> HTML & CSS Reference
 
-# Navigation
+<b> Navigation
 
-# Notes
+<b> Notes
