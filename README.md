@@ -1,7 +1,7 @@
 # CyberSense
 <b> Quick Links
 <ul>
-  <li>[Midnight Theme](https://github.com/pages-themes/midnight)</li>
+  <li> <p><a href="https://github.com/pages-themes/midnight">Midnight Theme</a></p </li>
 
 <b> HTML & CSS Reference
 
