@@ -13,5 +13,3 @@
   - [Python Reference](https://docs.python.org/3/reference/index.html)
 
 # Navigation
-
-# Notes
