@@ -1,6 +1,6 @@
 ---
-Team Diamond
-CS410 & CS411W
+title: Team Diamond
+description: CS410 & CS411W
 ---
 
 # Team Portfolio
