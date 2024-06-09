@@ -1,6 +1,12 @@
-# Quick Links
+# Team Diamond
 
-  - [Midnight Theme](https://github.com/KyleHubbs008/CS410_Diamond.git)
+Welcome to our Portfolio Website
+
+[About Us](#about-us) | [CyberSense](#cybersense) 
+
+## About Us
+
+## CyberSense
 
 ## HTML & CSS Reference
 
@@ -12,4 +18,4 @@
 
   - [Python Reference](https://docs.python.org/3/reference/index.html)
 
-# Navigation
+
