@@ -21,7 +21,7 @@
   <div style="margin-bottom: 20px;">
     <img src="images/jordon_image.png" alt="Jordon Kane" width="200" height="200">
     <h3>Jordon Kane</h3>
-    <p><strong>Bio:</strong> Short bio for Jordon Kane.</p>
+    <p>Jordon Kane is a senior majoring in computer science. He enjoys playing musical instruments and reading books. He also enjoys programming websites in his free time.</p>
   </div>
   <div style="margin-bottom: 20px;">
     <img src="images/christian_image.png" alt="Christian Parker" width="200" height="200">
