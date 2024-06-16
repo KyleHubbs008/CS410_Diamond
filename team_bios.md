@@ -36,6 +36,6 @@
   <div style="margin-bottom: 20px;">
     <img src="images/emily_image.png" alt="Emily Seepes" width="200" height="200">
     <h3>Emily Seepes</h3>
-    <p><strong>Bio:</strong> Short bio for Emily Seepes.</p>
+    <p>Emily Seepes is a senior majoring in computer science and minoring in cybersecurity. Emily has earned her Google Specialization in Cybersecurity and is working towards a DevOps and Software Engineering Certification with IBM. In her free time, Emily enjoys puzzles, working out, and traveling.  </p>
   </div>
 </div>
