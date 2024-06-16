@@ -1,9 +1,9 @@
 body {
-  background-image: url('blackSand.jpg');
+  background-image: url('images/blackSand.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: white;
+  color: black;
   min-height: 100vh;
   margin: 0;
   padding: 20px;
