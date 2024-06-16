@@ -11,7 +11,7 @@
   <div style="margin-bottom: 20px;">
     <img src="images/makendra_image.png" alt="Makendra Crosby" width="200" height="200">
     <h3>Makendra Crosby</h3>
-    <p><strong>Bio:</strong> Short bio for Makendra Crosby.</p>
+    <p>Makendra Crosby is a senior Computer Science major with a Cybersecurity minor. She enjoys reading books and listening to music. Makendra also is a Cybersecurity Living-Learning and Impact Learning Community Peer Mentor, helping incoming students majoring in cybersecurity ransition into college life at ODU.</p>
   </div>
   <div style="margin-bottom: 20px;">
     <img src="images/kyle_image.png" alt="Kyle Hubbs" width="200" height="200">
