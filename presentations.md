@@ -1,6 +1,12 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-# Presentations
+<div class="navbar">
+    <a href="README.md#about-us">About Us</a>
+    <a href="README.md#cybersense">CyberSense</a>
+    <a href="README.md#presentations">Presentations</a>
+    <a href="README.md#html-css-reference">HTML & CSS Reference</a>
+    <a href="README.md#python-reference">Python Reference</a>
+</div>
 
 ## Working Draft Feasibility Presentation
 

@@ -7,9 +7,13 @@
 </div>
 
 
-Welcome to our Portfolio Website
-
-[About Us](#about-us) | [CyberSense](#cybersense) | [Presentations](presentations.md) | [HTML & CSS Reference](#html--css-reference) | [Python Reference](#python-reference)
+<div class="navbar">
+    <a href="#about-us">About Us</a>
+    <a href="#cybersense">CyberSense</a>
+    <a href="presentations.md">Presentations</a>
+    <a href="#html-css-reference">HTML & CSS Reference</a>
+    <a href="#python-reference">Python Reference</a>
+</div>
 
 
 ## About Us

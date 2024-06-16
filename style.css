@@ -1,13 +1,35 @@
 body {
-  background-image: url('images/blackSand.jpg');
+  background-color: black;
+  background-image: url('../images/black-marble.jpg'); /* Optional background image */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: black;
+  color: white;
   min-height: 100vh;
   margin: 0;
   padding: 20px;
   font-family: Arial, sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.navbar a {
+  color: #FFD700;
+  text-decoration: none;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+.navbar a:hover {
+  background-color: #444;
+  border-radius: 5px;
 }
 
 .banner-container {
