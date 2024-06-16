@@ -1,5 +1,5 @@
 
-[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md)
+[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md) | [Python](https://docs.python.org/3/reference/index.html) | [React](https://react.dev/reference/react)
 
 
 <div style="text-align: center;">

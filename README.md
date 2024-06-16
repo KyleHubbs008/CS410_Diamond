@@ -13,7 +13,7 @@
     <div style="width: 20px; height: 20px; background-color: #FFD700; transform: rotate(45deg); margin: 0 10px;"></div>
 </div>
 
-[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md)
+[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md) | [Python](https://docs.python.org/3/reference/index.html) | [React](https://react.dev/reference/react)
 
 
 
