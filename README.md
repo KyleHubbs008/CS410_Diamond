@@ -1,17 +1,29 @@
-<div style="display: flex; align-items: center; justify-content: center; border: 1px solid #ddd; padding: 10px; background-color: #333; border-radius: 5px; margin: 20px;">
-    <div style="width: 20px; height: 20px; background-color: #FFD700; transform: rotate(45deg); margin: 0 10px;"></div>
-    <div style="color: #fff; font-size: 24px;">CS410 Team Diamond</div>
-    <div style="width: 20px; height: 20px; background-color: #FFD700; transform: rotate(45deg); margin: 0 10px;"></div>
-</div>
+# Team Diamond
 
-<nav style="background-color: #222; padding: 1em; text-align: center;">
-    <a href="team_bios.md" style="color: #fff; text-decoration: none; margin: 0 1em;">Meet the Team</a>
-    <a href="#cybersense" style="color: #fff; text-decoration: none; margin: 0 1em;">CyberSense</a>
-    <a href="#presentations.md" style="color: #fff; text-decoration: none; margin: 0 1em;">Presentations</a>
-    <a href="#htmlcss" style="color: #fff; text-decoration: none; margin: 0 1em;">HTML & CSS Reference</a>
-    <a href="#python" style="color: #fff; text-decoration: none; margin: 0 1em;">Python Reference</a>
-    
-</nav>
+Welcome to our Portfolio Website
+
+[About Us](#about-us) | [CyberSense](#cybersense) | [Presentations](presentations.md) | [HTML & CSS Reference](#html--css-reference) | [Python Reference](#python-reference)
+
+## About Us
+
+<a href="https://KyleHubbs008.github.io/CS410_Diamond/team_bios.html" style="text-decoration: none;">
+    <button style="
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: #4CAF50;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;">
+        Team Bios
+    </button>
+</a>
+
 
 ## CyberSense
 
