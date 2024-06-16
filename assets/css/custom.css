@@ -5,3 +5,11 @@
   margin: 0 auto;
   padding: 1em;
 }
+
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px; /* Optional: adjust as needed for spacing */
+}
