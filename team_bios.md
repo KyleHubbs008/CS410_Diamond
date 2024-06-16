@@ -26,7 +26,7 @@
   <div style="margin-bottom: 20px;">
     <img src="images/christian_image.png" alt="Christian Parker" width="200" height="200">
     <h3>Christian Parker</h3>
-    <p><strong>Bio:</strong> Christian Parker is currently working as a Systems Administrator at NASA Langley. Cybersecurity is something that he deals with way more than he wants to, just another tuesday. Hobbies currently include playing games when possible, riding motorcycles, and going to the gym.</p>
+    <p>Christian Parker is currently working as a Systems Administrator at NASA Langley. Cybersecurity is something that he deals with way more than he wants to, just another tuesday. Hobbies currently include playing games when possible, riding motorcycles, and going to the gym.</p>
   </div>
   <div style="margin-bottom: 20px;">
     <img src="images/michael_image.png" alt="Michael Porter" width="200" height="200">
