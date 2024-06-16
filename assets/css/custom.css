@@ -1,0 +1,7 @@
+/* assets/css/custom.css */
+.wrapper, .content {
+  max-width: 1200px; /* Adjust this value to make it wider */
+  width: 100%;
+  margin: 0 auto;
+  padding: 1em;
+}
