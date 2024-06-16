@@ -1,14 +1,26 @@
 body {
   background-color: black;
-  background-image: url('../images/black-marble.jpg'); /* Optional background image */
+  background-image: url('images/blackSand.jpg'); /* Optional background image */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: white;
-  min-height: 100vh;
   margin: 0;
-  padding: 20px;
+  padding: 0;
   font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
 }
 
 .navbar {
