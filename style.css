@@ -1,0 +1,79 @@
+body {
+  background-image: url('blackSand.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.banner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  margin: 20px;
+  color: white;
+}
+
+.diamond {
+  width: 20px;
+  height: 20px;
+  background-color: #FFD700;
+  transform: rotate(45deg);
+  margin: 0 10px;
+}
+
+.banner-text {
+  font-size: 24px;
+}
+
+.team-bio {
+  display: inline-block;
+  width: 220px;
+  height: 350px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.team-bio img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.team-bio-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #000;
+  background-color: #FFD700;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+button:active {
+  background-color: #FFEC8B;
+}

@@ -1,8 +1,16 @@
-# Team Diamond
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<div style="display: flex; align-items: center; justify-content: center; border: 1px solid #ddd; padding: 10px; background-color: #333; border-radius: 5px; margin: 20px;">
+    <div style="width: 20px; height: 20px; background-color: #FFD700; transform: rotate(45deg); margin: 0 10px;"></div>
+    <div style="color: #fff; font-size: 24px;">CS410 Team Diamond</div>
+    <div style="width: 20px; height: 20px; background-color: #FFD700; transform: rotate(45deg); margin: 0 10px;"></div>
+</div>
+
 
 Welcome to our Portfolio Website
 
 [About Us](#about-us) | [CyberSense](#cybersense) | [Presentations](presentations.md) | [HTML & CSS Reference](#html--css-reference) | [Python Reference](#python-reference)
+
 
 ## About Us
 

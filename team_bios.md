@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
 # Team Bios
 
 <style>
