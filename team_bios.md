@@ -1,26 +1,35 @@
+<nav style="background-color: #222; padding: 1em; text-align: center;">
+    <a href="#about" style="color: #fff; text-decoration: none; margin: 0 1em;">About Us</a>
+    <a href="#cybersense" style="color: #fff; text-decoration: none; margin: 0 1em;">CyberSense</a>
+    <a href="#presentations" style="color: #fff; text-decoration: none; margin: 0 1em;">Presentations</a>
+    <a href="#htmlcss" style="color: #fff; text-decoration: none; margin: 0 1em;">HTML & CSS Reference</a>
+    <a href="#python" style="color: #fff; text-decoration: none; margin: 0 1em;">Python Reference</a>
+    <a href="team_bios.md" style="color: #fff; text-decoration: none; margin: 0 1em;">Meet the Team</a>
+</nav>
+
 <style>
-.team-bio {
-    display: inline-block;
-    width: 220px;
-    height: 350px;
-    margin: 10px;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    text-align: center;
-    box-sizing: border-box;
-}
-.team-bio img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    object-fit: cover;
-}
-.team-bio-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
+    .team-bio {
+        display: inline-block;
+        width: 220px;
+        height: 350px;
+        margin: 10px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+    .team-bio img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        object-fit: cover;
+    }
+    .team-bio-container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
 </style>
 
 <div class="team-bio-container">
@@ -60,30 +69,3 @@
         <p>Short bio for Emily Seepes.</p>
     </div>
 </div>
-
-<a href="https://KyleHubbs008.github.io/CS410_Diamond/" style="text-decoration: none;">
-    <button style="
-        display: inline-block;
-        padding: 10px 20px;
-        font-size: 16px;
-        cursor: pointer;
-        text-align: center;
-        text-decoration: none;
-        outline: none;
-        color: #000;
-        background-color: #FFD700;
-        border: none;
-        border-radius: 5px;
-        transition: background-color 0.3s ease;">
-        Back to Homepage
-    </button>
-</a>
-
-<script>
-    document.querySelector('a[href="https://KyleHubbs008.github.io/CS410_Diamond/"] button').addEventListener('mousedown', function() {
-        this.style.backgroundColor = '#FFEC8B';
-    });
-    document.querySelector('a[href="https://KyleHubbs008.github.io/CS410_Diamond/"] button').addEventListener('mouseup', function() {
-        this.style.backgroundColor = '#FFD700';
-    });
-</script>
