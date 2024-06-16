@@ -1,59 +1,43 @@
-body {
-  background-color: black;
-  background-image: url('images/blackSand.jpg'); /* Optional background image */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  color: white;
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
-
-.container {
-  width: 80%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-  background-color: rgba(0, 0, 0, 0.8);
-  border-radius: 10px;
-}
-
 .navbar {
   display: flex;
   justify-content: center;
-  background-color: rgba(0, 0, 0, 0.7);
-  padding: 10px;
+  background-color: #333;
+  padding: 15px;
   border-radius: 5px;
   margin-bottom: 20px;
+  font-size: 18px;
 }
 
 .navbar a {
   color: #FFD700;
+  background-color: #444;
   text-decoration: none;
-  padding: 10px 20px;
-  transition: background-color 0.3s ease;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 0 5px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-weight: bold;
 }
 
 .navbar a:hover {
-  background-color: #444;
-  border-radius: 5px;
+  background-color: #555;
+  color: #FFF;
 }
 
-.banner-container {
+.navbar a:active {
+  background-color: #FFEC8B;
+}
+
+.banner {
   display: flex;
-  align-items: center;
   justify-content: center;
-  border: 1px solid #ddd;
-  padding: 10px;
-  background-color: rgba(0, 0, 0, 0.7);
+  align-items: center;
+  background-color: #444;
+  padding: 20px;
   border-radius: 5px;
-  margin: 20px;
-  color: white;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #FFD700;
 }
 
 .diamond {
@@ -64,33 +48,30 @@ body {
   margin: 0 10px;
 }
 
-.banner-text {
-  font-size: 24px;
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
-.team-bio {
+.card {
   display: inline-block;
   width: 220px;
   height: 350px;
   margin: 10px;
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #555;
   border-radius: 5px;
   text-align: center;
-  box-sizing: border-box;
+  background-color: #333;
 }
 
-.team-bio img {
+.card img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
-}
-
-.team-bio-container {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  margin-bottom: 10px;
 }
 
 button {
@@ -106,6 +87,10 @@ button {
   border: none;
   border-radius: 5px;
   transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #FFEC8B;
 }
 
 button:active {

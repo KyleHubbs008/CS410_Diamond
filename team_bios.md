@@ -1,15 +1,19 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+<div class="banner">
+    <div class="diamond"></div>
+    <div>CS410 Team Diamond</div>
+    <div class="diamond"></div>
+</div>
+
 <div class="navbar">
     <a href="README.md#about-us">About Us</a>
     <a href="README.md#cybersense">CyberSense</a>
+    <a href="team_bios.md">The Team</a>
     <a href="presentations.md">Presentations</a>
     <a href="README.md#html-css-reference">HTML & CSS Reference</a>
     <a href="README.md#python-reference">Python Reference</a>
 </div>
-
-
-## Team Members
 
 <div class="team-bio-container">
     <div class="team-bio">
