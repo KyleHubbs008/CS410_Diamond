@@ -2,7 +2,6 @@
 
 ## Working Draft Feasibility Presentation
 
-
-<div class="iframe-container">
+<center>
     <iframe src="https://docs.google.com/presentation/d/1qRXgA3l5oJzc8KfsVmmoknEKk3Q4GgsrCg1cP_bCY0/edit#slide=id.g2e51963c54e_2_0" width="1200" height="1000"></iframe>
-</div>
+</center>
