@@ -13,7 +13,15 @@
     <div style="width: 20px; height: 20px; background-color: #FFD700; transform: rotate(45deg); margin: 0 10px;"></div>
 </div>
 
-[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md) | 
+
+<div style="text-align: center;">
+  <nav style="background-color: #222; padding: 10px; display: inline-block; border-radius: 5px;">
+    <a href="index.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">Home</a>
+    <a href="team_bios.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">The Team</a>
+    <a href="cybersense.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">CyberSense</a>
+    <a href="presentations.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">Presentations</a>
+  </nav>
+</div>
 
 
 ## CyberSense
