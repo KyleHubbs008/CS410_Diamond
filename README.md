@@ -15,14 +15,24 @@ Welcome to our Portfolio Website
         text-align: center;
         text-decoration: none;
         outline: none;
-        color: #fff;
-        background-color: #4CAF50;
+        color: #000;
+        background-color: #FFD700;
         border: none;
         border-radius: 15px;
-        box-shadow: 0 9px #999;">
+        box-shadow: 0 9px #999;
+        transition: background-color 0.3s ease;">
         Team Bios
     </button>
 </a>
+
+<script>
+    document.querySelector('button').addEventListener('mousedown', function() {
+        this.style.backgroundColor = '#FFEC8B';
+    });
+    document.querySelector('button').addEventListener('mouseup', function() {
+        this.style.backgroundColor = '#FFD700';
+    });
+</script>
 
 
 ## CyberSense
