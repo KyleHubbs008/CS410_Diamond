@@ -13,7 +13,7 @@
     <div style="width: 20px; height: 20px; background-color: #FFD700; transform: rotate(45deg); margin: 0 10px;"></div>
 </div>
 
-[The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md) | [HTML & CSS Reference](#html--css-reference) | [Python Reference](#python-reference)
+[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md) | 
 
 
 ## CyberSense
@@ -21,15 +21,5 @@
 A comprehensive threat detection and Cybersecurity education tool for small businesses
 
 
-## HTML & CSS Reference
-
-  - [HTML](https://www.w3schools.com/html/default.asp)
-  - [CSS](https://www.w3schools.com/css/default.asp)
-  - [Bootstrap](https://www.w3schools.com/bootstrap5/index.php)
-
-
-## Python Reference
-
-  - [Python Reference](https://docs.python.org/3/reference/index.html)
 
 
