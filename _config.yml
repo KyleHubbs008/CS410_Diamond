@@ -5,3 +5,6 @@ plugins:
 # Include the custom CSS
 include:
   - assets/css/custom.css
+  - README.md
+  - team_bios.md
+  - presentations.md

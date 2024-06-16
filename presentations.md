@@ -1,3 +1,8 @@
+---
+layout: default
+title: Presentations
+---
+
 <div style="text-align: center;">
   <nav style="background-color: #222; padding: 10px; display: inline-block; border-radius: 5px;">
     <a href="index.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">Home</a>

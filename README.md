@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 <div style="
     display: flex;
     align-items: center;
