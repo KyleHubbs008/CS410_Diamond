@@ -42,7 +42,9 @@
     <div class="team-bio">
         <img src="images/kyle_image.png" alt="Kyle Hubbs">
         <h3>Kyle Hubbs</h3>
-        <p>Short bio for Kyle Hubbs.</p>
+        <p>
+        Kyle Hubbs is a former firefighter/paramedic with over a decade of experience. Passionate about cloud computing and cybersecurity, he actively develops Python projects in these fields. Kyle is also a purple belt in Brazilian Jiu-Jitsu, practices Muay Thai, and works as a strength and conditioning coach for baseball athletes. He is married and has two children.
+        </p>
     </div>
     <div class="team-bio">
         <img src="images/jordon_image.png" alt="Jordon Kane">
