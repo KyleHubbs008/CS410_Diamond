@@ -16,7 +16,7 @@
   <div style="margin-bottom: 20px;">
     <img src="images/kyle_image.png" alt="Kyle Hubbs" width="200" height="200">
     <h3>Kyle Hubbs</h3>
-    <p>Kyle Hubbs is a former firefighter/paramedic with over a decade of experience. Passionate about cloud computing and cybersecurity, he actively works on projects in these fields. Kyle is also a purple belt in Brazilian Jiu-Jitsu, practices Muay Thai, and works as a strength and conditioning coach for baseball athletes. He is married and has two children.</p>
+    <p>Kyle Hubbs is a former Firefighter/Paramedic with over a decade of experience. Passionate about cloud computing and cybersecurity, he actively works on projects in these fields. Kyle is also a purple belt in Brazilian Jiu-Jitsu, practices Muay Thai, and works as a strength and conditioning coach for baseball athletes. He is married and has two children.</p>
   </div>
   <div style="margin-bottom: 20px;">
     <img src="images/jordon_image.png" alt="Jordon Kane" width="200" height="200">
