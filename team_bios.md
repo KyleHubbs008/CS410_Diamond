@@ -1,16 +1,6 @@
----
-layout: default
-title: Team Bios
----
 
-<div style="text-align: center;">
-  <nav style="background-color: #222; padding: 10px; display: inline-block; border-radius: 5px;">
-    <a href="index.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">Home</a>
-    <a href="team_bios.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">The Team</a>
-    <a href="cybersense.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">CyberSense</a>
-    <a href="presentations.md" style="color: #FFD700; text-decoration: none; margin: 0 15px; font-weight: bold;">Presentations</a>
-  </nav>
-</div>
+[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md)
+
 
 <div style="text-align: center;">
   <div style="margin-bottom: 20px;">
@@ -26,7 +16,7 @@ title: Team Bios
   <div style="margin-bottom: 20px;">
     <img src="images/kyle_image.png" alt="Kyle Hubbs" width="200" height="200">
     <h3>Kyle Hubbs</h3>
-    <p><strong>Bio:</strong> Kyle Hubbs is a former firefighter/paramedic with over a decade of experience. Passionate about cloud computing and cybersecurity, he actively works on projects in these fields. Kyle is also a purple belt in Brazilian Jiu-Jitsu, practices Muay Thai, and works as a strength and conditioning coach for baseball athletes. He is married and has two children.</p>
+    <p>Kyle Hubbs is a former firefighter/paramedic with over a decade of experience. Passionate about cloud computing and cybersecurity, he actively works on projects in these fields. Kyle is also a purple belt in Brazilian Jiu-Jitsu, practices Muay Thai, and works as a strength and conditioning coach for baseball athletes. He is married and has two children.</p>
   </div>
   <div style="margin-bottom: 20px;">
     <img src="images/jordon_image.png" alt="Jordon Kane" width="200" height="200">
