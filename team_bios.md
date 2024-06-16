@@ -1,19 +1,27 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-<div class="banner">
-    <div class="diamond"></div>
-    <div>CS410 Team Diamond</div>
-    <div class="diamond"></div>
-</div>
-
-<div class="navbar">
-    <a href="README.md#about-us">About Us</a>
-    <a href="README.md#cybersense">CyberSense</a>
-    <a href="team_bios.md">The Team</a>
-    <a href="presentations.md">Presentations</a>
-    <a href="README.md#html-css-reference">HTML & CSS Reference</a>
-    <a href="README.md#python-reference">Python Reference</a>
-</div>
+<style>
+.team-bio {
+    display: inline-block;
+    width: 220px;
+    height: 350px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.team-bio img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.team-bio-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+</style>
 
 <div class="team-bio-container">
     <div class="team-bio">
