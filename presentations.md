@@ -1,4 +1,4 @@
-[The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md) | [HTML & CSS Reference](#html--css-reference) | [Python Reference](#python-reference)
+[Home](README.md) | [The Team](team_bios.md) | [CyberSense](#cybersense) | [Presentations](presentations.md) | 
 
 ## Working Draft Feasibility Presentation
 
