@@ -31,7 +31,7 @@
   <div style="margin-bottom: 20px;">
     <img src="images/michael_image.png" alt="Michael Porter" width="200" height="200">
     <h3>Michael Porter</h3>
-    <p><strong>Bio:</strong> Short bio for Michael Porter.</p>
+    <p>Michael Porter is currently majoring in Computer Science. In his free time, he enjoys photography, lifting, and working on cars. Additionally, he is optimistic about running his first marathon this year.</p>
   </div>
   <div style="margin-bottom: 20px;">
     <img src="images/emily_image.png" alt="Emily Seepes" width="200" height="200">
