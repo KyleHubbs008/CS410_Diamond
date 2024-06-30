@@ -4,9 +4,9 @@
 
 <div style="text-align: center;">
   <div style="margin-bottom: 20px;">
-    <img src="images/kai_image.png" alt="Kai Buckhalter" width="200" height="200">
+    <img src="images/kai_image.jpg" alt="Kai Buckhalter" width="200" height="200">
     <h3>Kai Buckhalter</h3>
-    <p><strong>Bio:</strong> Short bio for Kai Buckhalter.</p>
+    <p>Kai Buckhalter is a senior in the Computer Science degree at Old Dominion University (ODU). Above all, he likes to explore ideas, seeing what they have to offer and how they can be transformed. Most of his programming projects revolve around exploring a particular idea or building a set of tools, like a library, for tinkering with. Most often, he can be found working for the Desktop Support Group at ODU, banging his head against the wall while working on a particularly stubborn computer.</p>
   </div>
   <div style="margin-bottom: 20px;">
     <img src="images/makendra_image.png" alt="Makendra Crosby" width="200" height="200">
