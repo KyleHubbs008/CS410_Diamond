@@ -250,6 +250,32 @@ header.sticky {
     margin-top: 4.2rem;
 }
 
+.center-image {
+    text-align: center;
+    margin-top: 20px; 
+}
+
+.elevator-pitch {
+    margin-top: 20px; 
+}
+
+.elevator-pitch-box {
+    background-color: #444; 
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px; 
+    max-width: 800px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+
+.center-text h4 {
+    margin-top: 20px; /* Adjusts the space between CyberSense and Elevator Pitch */
+}
+
+.elevator-pitch p, .elevator-pitch h3 {
+    margin: 0 0 20px 0; /* Add margin to paragraphs and headings */
+}
+
 .box {
     padding: 30px 40px 66px;
     background: var(--other-color);
@@ -354,6 +380,55 @@ header.sticky {
     justify-content: center;
     margin-top: 4.2rem;
 }
+
+.references {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    padding: 20px;
+    border-radius: 10px; /* Optional: Add some border radius for styling */
+    max-width: 1000px; /* Increase the box width */
+    margin: 20px auto; /* Center the section */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: Add some shadow for depth */
+}
+
+.references h2 {
+    color: #4A90E2; /* Blue color for the title */
+}
+
+.references-list {
+    list-style-type: none; /* Remove bullet points */
+    padding-left: 20px; /* Remove default padding */
+}
+
+.references-list li {
+    margin-bottom: 20px; /* Space between list items */
+    line-height: 1.6; /* Line height for better readability */
+    text-indent: -20px; /* Negative indent to offset bullet */
+    padding-left: 60px; /* Padding to create space for indent */
+}
+
+.references-list li:before {
+    content: "\2022"; /* Bullet point */
+    color: #4A90E2; /* Blue color for bullet */
+    display: inline-block; 
+    width: 20px; /* Width of the bullet point */
+    margin-left: -40px; /* More space to the left of bullet points */
+}
+
+.references-list a {
+    color: #FFD700; /* Gold color for links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.references-list a:hover {
+    color: #FF6347; /* Red color on hover */
+    text-decoration: underline; /* Underline on hover */
+}
+
+.references-list .accessed {
+    color: #FFD700; /* Same color as the links */
+}
+
 
 form input,
 form textarea {
