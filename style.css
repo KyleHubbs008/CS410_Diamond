@@ -381,8 +381,17 @@ header.sticky {
     margin-top: 4.2rem;
 }
 
+.section-container {
+    padding: 40px 0; /* Add padding for spacing */
+}
+
+.references-container {
+    background-color: var(--second-bg-color); /* Different background color for references container */
+}
+
+
 .references {
-    background-color: #333; /* Background color */
+    background-color: #444; /* Different background color for references content */
     color: #fff; /* Text color */
     padding: 20px;
     border-radius: 10px; /* Optional: Add some border radius for styling */
@@ -395,16 +404,21 @@ header.sticky {
     color: #4A90E2; /* Blue color for the title */
 }
 
+.references-content {
+    padding: 20px; /* Add padding to the content */
+    border-radius: 10px; /* Optional: Add some border radius for styling */
+}
+
 .references-list {
     list-style-type: none; /* Remove bullet points */
-    padding-left: 20px; /* Remove default padding */
+    padding-left: 0; /* Remove default padding */
 }
 
 .references-list li {
     margin-bottom: 20px; /* Space between list items */
     line-height: 1.6; /* Line height for better readability */
     text-indent: -20px; /* Negative indent to offset bullet */
-    padding-left: 60px; /* Padding to create space for indent */
+    padding-left: 40px; /* Padding to create space for indent */
 }
 
 .references-list li:before {
@@ -412,7 +426,7 @@ header.sticky {
     color: #4A90E2; /* Blue color for bullet */
     display: inline-block; 
     width: 20px; /* Width of the bullet point */
-    margin-left: -40px; /* More space to the left of bullet points */
+    margin-left: -20px; /* More space to the left of bullet points */
 }
 
 .references-list a {
@@ -428,6 +442,51 @@ header.sticky {
 .references-list .accessed {
     color: #FFD700; /* Same color as the links */
 }
+
+.glossary-container {
+    background-color: var(--bg-color); /* Different background color for glossary container */
+}
+
+.glossary {
+    background-color: #555; /* Different background color for glossary content */
+    color: #fff; /* Text color */
+    padding: 20px;
+    border-radius: 10px; /* Optional: Add some border radius for styling */
+    max-width: 1000px; /* Increase the box width */
+    margin: 20px auto; /* Center the section */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: Add some shadow for depth */
+}
+
+.glossary h2 {
+    color: #4A90E2; /* Blue color for the title */
+}
+
+.glossary-content {
+    padding: 20px; /* Add padding to the content */
+    border-radius: 10px; /* Optional: Add some border radius for styling */
+}
+
+.glossary-list {
+    list-style-type: none; /* Remove bullet points */
+    padding-left: 0; /* Remove default padding */
+}
+
+.glossary-list li {
+    margin-bottom: 20px; /* Space between list items */
+    line-height: 1.6; /* Line height for better readability */
+    text-indent: -20px; /* Negative indent to offset bullet */
+    padding-left: 40px; /* Padding to create space for indent */
+}
+
+.glossary-list li:before {
+    content: "\2022"; /* Bullet point */
+    color: #4A90E2; /* Blue color for bullet */
+    display: inline-block; 
+    width: 20px; /* Width of the bullet point */
+    margin-left: -20px; /* More space to the left of bullet points */
+}
+
+
 
 
 form input,
