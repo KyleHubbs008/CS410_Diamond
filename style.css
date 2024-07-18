@@ -374,30 +374,54 @@ header.sticky {
     cursor: pointer;
 }
 
-.presentations-form {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 4.2rem;
+.presentations {
+    background-color: #333; /* Background color for the presentations section */
+    color: #fff; /* Text color */
+    padding: 40px 0; /* Padding around the section */
 }
 
+.presentations .center-text {
+    text-align: center; /* Center the heading text */
+}
+
+.presentations-form iframe {
+    max-width: 100%; /* Ensure iframe does not overflow the container */
+    border: none; /* Remove border */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add shadow for better look */
+}
+
+.centered {
+    text-align: center; /* Center the h3 elements */
+    margin-bottom: 20px; /* Add margin below the h3 elements */
+    margin-top: 50px;
+}
+
+.presentation-container {
+    margin-bottom: 40px; /* Add space between the presentation containers */
+}
+
+.presentations-form {
+    text-align: center; /* Center the presentation form */
+}
+
+
 .section-container {
-    padding: 40px 0; /* Add padding for spacing */
+    padding: 40px 0; 
 }
 
 .references-container {
-    background-color: var(--second-bg-color); /* Different background color for references container */
+    background-color: var(--second-bg-color); 
 }
 
 
 .references {
-    background-color: #444; /* Different background color for references content */
+    background-color: #444; 
     color: #fff; /* Text color */
     padding: 20px;
-    border-radius: 10px; /* Optional: Add some border radius for styling */
-    max-width: 1000px; /* Increase the box width */
-    margin: 20px auto; /* Center the section */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: Add some shadow for depth */
+    border-radius: 10px; 
+    max-width: 1000px; 
+    margin: 20px auto; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /
 }
 
 .references h2 {
