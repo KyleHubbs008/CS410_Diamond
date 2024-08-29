@@ -36,7 +36,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 20px 8%;
-    background: transparent;
+    background: var(--bg-color);
     transition: all .5s ease;
 }
 
@@ -50,13 +50,22 @@ span {
     color: var(--main-color);
 }
 
+
 .navlist {
     display: flex;
-    gap: 20px;
+    gap: 20px; /* Added gap for spacing between links */
     list-style: none;
     margin: 0;
     padding: 0;
 }
+
+.navlist li a {
+    text-decoration: none;
+    color: #b8c1ec; /* Changed color for better visibility */
+    font-size: 14px; /* Reduced font size */
+    transition: color 0.3s ease;
+}
+
 
 .navlist a {
     font-size: var(--p-font);
