@@ -35,7 +35,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 40px 16%;
+    padding: 20px 8%;
     background: transparent;
     transition: all .5s ease;
 }
@@ -52,6 +52,10 @@ span {
 
 .navlist {
     display: flex;
+    gap: 20px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 .navlist a {
