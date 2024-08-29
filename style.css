@@ -41,10 +41,7 @@ header {
 }
 
 .logo {
-    font-size: 18px;
-    display: flex;
-    gap: 5px;
-    align-items: center;
+    font-size: 36px;
     color: var(--text-color);
     font-weight: 600;
 }
