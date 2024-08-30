@@ -28,16 +28,19 @@ Interested in the technologies behind CyberSense? Here are some key tools and fr
 - **[PostgreSQL](https://www.w3schools.com/postgresql/index.php)**
 
 
-## Contributors
-Meet the dedicated contributors who have made this project possible:
-- **[Christian Parker](https://github.com/cpark026)**
-- **[Emily Seeps](https://github.com/emilyseepes1)**
-- **[Jordon Kane](https://github.com/jordonkane)**
-- **[Kyle Hubbs](https://github.com/KyleHubbs008)**
-- **[Makendra Crosby](https://github.com/mcros008)**
-- **[Michael Porter](https://github.com/MPort024)**
-- **[Victory Chuma](https://github.com/VictoryChuma)**
-- **[Harsh Patel](https://github.com/hpatel021)**
+## Members
+
+| GitHub Username                    | Name            | Email                   |
+|------------------------------------|-----------------|-------------------------|
+| [**KyleHubbs008**](https://github.com/KyleHubbs008)  | Kyle Hubbs      | [khubb008@odu.edu](mailto:khubb008@odu.edu) |
+| [**emilyseepes1**](https://github.com/emilyseepes1)  | Emily Seepes    | [eseep001@odu.edu](mailto:eseep001@odu.edu) |
+| [**mcros008**](https://github.com/mcros008)      | Makendra Crosby | [mcros008@odu.edu](mailto:mcros008@odu.edu) |
+| [**cpark026**](https://github.com/cpark026)      | Christian Parker| [cpark026@odu.edu](mailto:cpark026@odu.edu) |
+| [**MPort024**](https://github.com/MPort024)      | Michael Porter  | [mport024@odu.edu](mailto:mport024@odu.edu) |
+| [**jordonkane**](https://github.com/jordonkane)    | Jordon Kane     | [jkane005@odu.edu](mailto:jkane005@odu.edu) |
+| [**VictoryChuma**](https://github.com/VictoryChuma)  | Victory Chuma   | [vchum001@odu.edu](mailto:vchum001@odu.edu) |
+| [**hpatel021**](https://github.com/hpatel021)     | Harsh Patel     | [hpate021@odu.edu](mailto:hpate021@odu.edu) |
+
 
 # Notes
 By default, `README.md` will be used as the `index.html` for the GitHub Pages site, serving as the landing or home page.
